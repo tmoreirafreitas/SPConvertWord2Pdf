@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7a2cda80-5969-46f2-95bc-1fc8d1ff216d" solutionId="7a2cda80-5969-46f2-95bc-1fc8d1ff216d" resetWebServer="false" sharePointProductVersion="15.0" name="SPConvertWord2Pdf" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c0e71f59-1dcf-4d5b-8010-82ad342c950f" />
+  </features>
+</package>
